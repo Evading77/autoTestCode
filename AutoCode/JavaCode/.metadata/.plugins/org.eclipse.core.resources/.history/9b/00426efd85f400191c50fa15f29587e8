@@ -1,0 +1,11 @@
+package com.pages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+
+public class LoginPage {
+	//手机号登录
+	@FindBy(xpath="//*/div/span[text()='手机号登录']")
+	private WebElement cell_login;
+
+}

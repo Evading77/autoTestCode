@@ -1,0 +1,37 @@
+2020-04-10 11:16:25,102 - BrowerBase - INFO - You had select Chrome browser.
+2020-04-10 11:16:25,102 - BrowerBase - INFO - The test server url is: https://2haohr.com
+2020-04-10 11:16:31,315 - BrowerBase - INFO - Starting Chrome browser.
+2020-04-10 11:16:32,750 - BrowerBase - INFO - Open url: https://2haohr.com
+2020-04-10 11:16:36,869 - BrowerBase - INFO - Maximize the current window.
+2020-04-10 11:16:36,870 - BrowerBase - INFO - Set implicitly wait 10 seconds.
+2020-04-10 11:16:41,700 - BasePage - INFO - Had find the element ' 手机号登录 ' successful by xpath via value: //*/div/span[text()='手机号登录'] 
+2020-04-10 11:16:41,830 - BasePage - INFO - The element ' 手机号登录 ' was clicked.
+2020-04-10 11:16:41,857 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*/input[@placeholder='请输入手机号'] 
+2020-04-10 11:16:42,167 - BasePage - INFO - Had type ' 13076998012 ' in inputBox
+2020-04-10 11:16:42,191 - BasePage - INFO - Had find the element ' 下一步 ' successful by xpath via value: //*/button[@size='large'] 
+2020-04-10 11:16:42,286 - BasePage - INFO - The element ' 下一步 ' was clicked.
+2020-04-10 11:16:42,541 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //*/input[@placeholder='请输入密码'] 
+2020-04-10 11:16:42,960 - BasePage - INFO - Had type ' dfy123 ' in inputBox
+2020-04-10 11:16:42,986 - BasePage - INFO - Had find the element ' 马上登录 ' successful by xpath via value: //*/span[text()='马上登录'] 
+2020-04-10 11:16:43,028 - BasePage - INFO - The element ' 马上登录 ' was clicked.
+2020-04-10 11:16:46,023 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //div[@class='popupWrap_egN7r']/../../div[1]/* 
+2020-04-10 11:16:46,259 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //div[@class='popupWrap_egN7r']/../../div[1]/* 
+2020-04-10 11:16:46,711 - BasePage - INFO - The element '  ' was clicked.
+2020-04-10 11:16:46,782 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //img[contains(@src,'brand')] 
+2020-04-10 11:16:46,782 - BasePage - INFO - xpath=>//img[contains(@src,'brand')] 断言成功
+2020-04-10 11:16:52,112 - BasePage - INFO - Had find the element ' 添加员工 ' successful by xpath via value: //span[text()='添加员工'] 
+2020-04-10 11:16:52,112 - BasePage - INFO - xpath=>//span[text()='添加员工'] 断言成功
+2020-04-10 11:17:03,202 - BasePage - ERROR - NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='在职信息']"}
+  (Session info: chrome=72.0.3626.121)
+  (Driver info: chromedriver=72.0.3626.7 (efcef9a3ecda02b2132af215116a03852d08b9cb),platform=Windows NT 10.0.18363 x86_64)
+
+2020-04-10 11:17:03,538 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2020-04-10 11:17:03,539 - BasePage - INFO - xpath=>//div[text()='在职信息'] 断言成功
+2020-04-10 11:17:04,617 - BasePage - INFO - Had find the element ' 入职信息 ' successful by xpath via value: //div[text()='入职信息'] 
+2020-04-10 11:17:04,617 - BasePage - INFO - xpath=>//div[text()='入职信息'] 断言成功
+2020-04-10 11:17:05,695 - BasePage - INFO - Had find the element ' 扫码入职流程介绍 ' successful by xpath via value: //div[text()='扫码入职流程介绍'] 
+2020-04-10 11:17:05,695 - BasePage - INFO - xpath=>//div[text()='扫码入职流程介绍'] 断言成功
+2020-04-10 11:17:08,006 - BasePage - INFO - Had find the element ' 批量添加员工 ' successful by xpath via value: //div[text()='批量添加员工'] 
+2020-04-10 11:17:08,006 - BasePage - INFO - xpath=>//div[text()='批量添加员工'] 断言成功
+2020-04-10 11:17:10,438 - BasePage - INFO - Had find the element '  ' successful by xpath via value: //div[@class='inner_3wH-g']/table/tbody 
+2020-04-10 11:17:10,438 - BasePage - INFO - xpath=>//div[@class='inner_3wH-g']/table/tbody 断言成功

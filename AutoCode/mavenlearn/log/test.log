@@ -1,0 +1,2 @@
+15:33:42.407 INFO  com.ecshop.utils.DriverUtils 20 <clinit> - 获取系统属性test.browser，值为chrome
+15:33:42.413 INFO  com.ecshop.utils.DriverUtils 23 <clinit> - 获取配置文件中driver所在路径，值为E:/code/java_selenium/mavenlearn/Tools/chromedriver.exe

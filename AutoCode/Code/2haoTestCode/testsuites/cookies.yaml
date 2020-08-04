@@ -1,0 +1,21 @@
+cookies:
+- domain: .2haohr.com
+  expiry: 1593587845
+  httpOnly: false
+  name: Hm_lvt_c19600636d25be064923faec4309a09e
+  path: /
+  secure: false
+  value: '1562051838'
+- domain: .2haohr.com
+  expiry: 1563002240
+  httpOnly: false
+  name: accesstoken-pd
+  path: /
+  secure: false
+  value: '%7B%22token%22%3A%22bamzp8lgvjb3bwqwujk2moddo2eyjy9p%22%2C%22account%22%3A%22%22%2C%22status%22%3A0%7D'
+- domain: .2haohr.com
+  httpOnly: false
+  name: Hm_lpvt_c19600636d25be064923faec4309a09e
+  path: /
+  secure: false
+  value: '1562051846'

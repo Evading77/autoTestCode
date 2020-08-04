@@ -1,0 +1,8 @@
+package com.pages;
+
+public class LoginPage {
+	//手机号登录
+	@FindBy(xpath="//*/div/span[text()='手机号登录']")
+	
+
+}

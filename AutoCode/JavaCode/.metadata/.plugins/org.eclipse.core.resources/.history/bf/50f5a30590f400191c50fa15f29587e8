@@ -1,0 +1,11 @@
+package com.tests;
+
+
+import com.utils.BaseTest;
+
+public class LoginTest extends BaseTest {
+	@Test
+	public void testLogin() {
+		driver.get("https://2haohr.com");
+	}
+}
